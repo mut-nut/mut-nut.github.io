@@ -4,6 +4,6 @@
 งานอดิเรก เล่นเกม , ออกกำลังกาย , เล่นกีฬา
 ทักษะสกิลด้าน computer : 
 1.basic skill computer 
-2.play game 
+2.gamer 
 
  
