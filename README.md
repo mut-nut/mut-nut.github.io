@@ -1,9 +1,9 @@
 # mut-nut.github.io
-
-ชื่อ ณัฐวุฒิ(nuttawut) นามสกุล บู่ทอง(buthong)
-งานอดิเรก เล่นเกม , ออกกำลังกาย , เล่นกีฬา
+<br/>
+ชื่อ ณัฐวุฒิ(nuttawut) นามสกุล บู่ทอง(buthong) <br/>
+งานอดิเรก เล่นเกม , ออกกำลังกาย , เล่นกีฬา 
 ทักษะสกิลด้าน computer : 
-1.basic skill computer 
+1.basic skill computer <br/>
 2.gamer 
 
  
